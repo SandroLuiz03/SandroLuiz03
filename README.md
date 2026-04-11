@@ -1,16 +1,17 @@
-## Hi there 👋
+Graduando em Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack. Minha atuação técnica é concentrada no ecossistema JavaScript, desenvolvendo soluções com Node.js no back-end e interfaces funcionais com HTML e CSS.
 
-<!--
-**SandroLuiz03/SandroLuiz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Além do código, possuo base sólida em redes de computadores e modelagem de bancos de dados. Minha experiência prévia com gestão de negócios e empreendedorismo me permite entender o desenvolvimento de software não apenas como escrita de código, mas como uma ferramenta para otimizar processos e gerar valor real.
 
-Here are some ideas to get you started:
+Atualmente, dedico-me ao aprimoramento do inglês técnico para colaboração em projetos de escala internacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades e Ferramentas:
+
+Desenvolvimento: JavaScript e Node.js.
+
+Front-end: HTML e CSS.
+
+Dados: SQL (Bancos de Dados)
+
+Infraestrutura: Redes de Computadores.
+
+Idiomas: Inglês (foco em leitura e documentação técnica).
